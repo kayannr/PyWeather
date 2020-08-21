@@ -26,3 +26,9 @@ Temperature decreases towards higher latitude in the Northen Hemisphere. Likewis
 * The city data generated is based on random coordinates as well as different query times
 * Each coordinate triggers a separate call to the Google API. If creating own criteria to plan a vacation, reduce the results 
 * In building the script, pay attention to the cities that are used in the query pool. Are you getting coverage of the full gamut of latitudes and longitudes? Or are you simply choosing 500 cities concentrated in one region of the world? Simply rattling 500 cities based on your human selection would create a biased dataset. Be thinking of how this should be countered. (Hint: Consider the full range of latitudes).
+
+## Final notebook
+* Randomly selects at least 500 unique (non-repeat) cities based on latitude and longitude
+* Performs a weather check on each of the cities using a series of successive API calls
+* Includes a print log of each city as it's being processed with the city number and city name
+* Saves both a CSV of all data retrieved and PNG images for each scatter plot
