@@ -9,12 +9,13 @@
 ![3](WeatherPy/NorthHem_TempvsLat.png)
 ![4](WeatherPy/NorthHem_WindvsLat.png)
 
-### Southern Hemisphere 
+### Southern Hemisphere Figures: 
 ![6](WeatherPy/SouthHem_CloudvsLat.png)
 ![7](WeatherPy/SouthHem_HumdvsLat.png)
 ![8](WeatherPy/SouthHem_TempvsLat.png)
 ![9](WeatherPy/SouthHem_WindvsLat.png)
 
 ## Part II: Vacation 
-
+### Hotel Info:  
+![11](VacationPy/Hotels&Heatmap.PNG)
 
