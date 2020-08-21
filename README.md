@@ -19,3 +19,5 @@
 ### Hotel Info:  
 ![11](VacationPy/Hotels&Heatmap.PNG)
 
+## Observable Trends
+Temperature decreases towards higher latitude in the Northen Hemisphere. Likewise, temperature in the Southern Hemisphere towards lower latitudes. The highest temperatures occur in the equator, in between the northern and southern hemispheres, which is also evident in the 'Latitude vs Temperature' scatter plot. Wind Speed, Humidity, and Cloudiness are not directly influenced by Latitude as shown in the scatter plots. They are more directly influenced by Temperatures, which is not plotted. Cloudiness has no direct relationship with Temperature, Wind Speed, and Humidity. Humidity appears to depend on Temperature when comparing the 'Latitude vs Temperature' and 'Latitude vs Humidity'. At higher temperatures, the percentage of humidity is also high. 
